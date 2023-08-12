@@ -1,0 +1,8 @@
+{
+  "name": "yarn-berry-test",
+  "packageManager": "yarn@3.6.0",
+  "dependencies": {
+    "eslint-config-hijacking": "^2.4.0",
+    "react-dom": "^18.2.0"
+  }
+}
